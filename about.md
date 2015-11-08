@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 
-Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. Created for free and for fun by Stijn. Get the latest version at the [Github repository](https://github.com/steinvc/holo-alfa).
+Hi, my name is Nick Young!
 
----
+I'm currently a Junior at Santa Clara University studying Management Information Systems. I also work part-time at Facebook as an Internal Data Product Manager. I love writing software and often find myself constantly tinkering with new tech that I hope to cover here.
 
-Holo Alfa is open source, [MIT license](http://opensource.org/licenses/MIT).
+For more about me, you can find my [resume here.]({{ site.baseurl }}/nick_young_resume.pdf)

@@ -1,5 +1,7 @@
 <footer>
   <div class="inner">
-    <p>{{ site.footer-text }}</p>
+  {% if site.display-social-icons-footer %}
+    {% include links.html %}
+  {% endif %}
   </div>
 </footer>

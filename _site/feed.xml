@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>Nick Young</title>
-		<description>{&quot;meta&quot;=&gt;&quot;Description of need to be filled in&quot;, &quot;subtitle&quot;=&gt;&quot;Even more description about the site&quot;}</description>
+		<description>{&quot;meta&quot;=&gt;&quot;Nick Young, Internal Product Manager at Facebook and loves to write code&quot;, &quot;subtitle&quot;=&gt;&quot;Hi, I&#39;m Nick Young. I&#39;m currently an Internal Produt Manager at Facebook. Read more about me &lt;a href=\&quot;./about\&quot;&gt;here&lt;/a&gt;.&quot;}</description>
 		<link>http://nickyoung.io</link>
 		<atom:link href="http://nickyoung.io/feed.xml" rel="self" type="application/rss+xml" />
 		
@@ -10,7 +10,7 @@
 				<title>Hello World</title>
 				
 					
-						<dc:creator>{&quot;name&quot;=&gt;&quot;Nick Young&quot;, &quot;email&quot;=&gt;&quot;nick@nickyoung.io&quot;, &quot;info&quot;=&gt;nil}</dc:creator>
+						<dc:creator>{&quot;name&quot;=&gt;&quot;Nick Young&quot;, &quot;email&quot;=&gt;&quot;hello@nickyoung.io&quot;, &quot;info&quot;=&gt;nil}</dc:creator>
 					
 				
 				

@@ -3,4 +3,4 @@ layout: page
 title: Thank you
 ---
 
-Thank you for your message!
+Thanks for your message, I'll get back to your shortly!

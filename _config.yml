@@ -5,23 +5,23 @@ name: Nick Young
 description:
 
   # Description of your site. This will show up in google.
-  meta: Description of need to be filled in 
+  meta: Nick Young, Internal Product Manager at Facebook and loves to write code
 
   # Description of your site. This will show up on the front page.
-  subtitle: Even more description about the site
+  subtitle: Hi, I'm Nick Young. I'm currently an Internal Produt Manager at Facebook. Learn more about me <a href="./about">here</a>.
 
 author:
   name: Nick Young
 
   # Necessary for contact page
-  email: nick@nickyoung.io
+  email: hello@nickyoung.io
 
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.
   info:
 
 url: http://nickyoung.io
-baseurl: 
+baseurl:
 
 # language attribute in <html> element.
 lang: en
@@ -35,9 +35,10 @@ lang: en
 # If you want to show the subtitle anywhere else than the front page, use
 # {% include subtitle.html %} to include it anywhere you want.
 show-subtitle: true
-display-social-icons: true
+display-social-icons-subtitle: false
+display-social-icons-footer: true
 
-footer-text: <p><a class="fa fa-linkedin" href="https://www.linkedin.com/in/nickyoung3"></a> <a class="fa fa-github" href="https://github.com/thenickyoung"></a></p>
+footer-text:
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: # /img/logo.png
