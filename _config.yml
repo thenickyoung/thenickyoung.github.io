@@ -35,10 +35,9 @@ lang: en
 # If you want to show the subtitle anywhere else than the front page, use
 # {% include subtitle.html %} to include it anywhere you want.
 show-subtitle: true
-display-social-icons-subtitle: false
-display-social-icons-footer: true
+display-social-icons: true
 
-footer-text:
+footer-text: Nick Young 2015
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: # /img/logo.png
