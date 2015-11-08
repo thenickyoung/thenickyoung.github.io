@@ -1,8 +1,10 @@
 ---
 title: Hello World
 
-summary: Welcome to nickyoung.io, the personal website for Nick Young with posts from travel to tech.
+summary: I'm Nick and welcome to my website covering posts from travel to tech.
 
 ---
 
-Hello world, welcome to the personal website of Nick Young. I intend to post articles about: my thoughts, travels, and projects. Stay tuned for more!
+Welcome, world! My name is Nick Young, I love writing software and building products. Though this website, I intend to post articles about: my thoughts, travels, and projects. Stay tuned for more!
+
+For more about me, you can read my [background here.]({{ site.baseurl }}/about)
