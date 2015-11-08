@@ -35,7 +35,7 @@ lang: en
 # If you want to show the subtitle anywhere else than the front page, use
 # {% include subtitle.html %} to include it anywhere you want.
 show-subtitle: true
-display-social-icons: false
+display-social-icons: true
 
 footer-text: <p><a class="fa fa-linkedin" href="https://www.linkedin.com/in/nickyoung3"></a> <a class="fa fa-github" href="https://github.com/thenickyoung"></a></p>
 
