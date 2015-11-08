@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Nick Young</title>
+		<description>{&quot;meta&quot;=&gt;&quot;Description of need to be filled in&quot;, &quot;subtitle&quot;=&gt;&quot;Even more description about the site&quot;}</description>
+		<link>http://nickyoung.io</link>
+		<atom:link href="http://nickyoung.io/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Hello World</title>
+				
+					
+						<dc:creator>{&quot;name&quot;=&gt;&quot;Nick Young&quot;, &quot;email&quot;=&gt;&quot;nick@nickyoung.io&quot;, &quot;info&quot;=&gt;nil}</dc:creator>
+					
+				
+				
+					<description>&lt;p&gt;Hello world, welcome to the personal website of Nick Young. I intend to post articles about: my thoughts, travels, and projects. Stay tuned for more!&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 08 Nov 2015 00:00:00 +0800</pubDate>
+				<link>http://nickyoung.io/2015/11/08/hello-world/</link>
+				<guid isPermaLink="true">http://nickyoung.io/2015/11/08/hello-world/</guid>
+			</item>
+		
+	</channel>
+</rss>
