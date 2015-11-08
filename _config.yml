@@ -8,7 +8,7 @@ description:
   meta: Nick Young, Internal Product Manager at Facebook and loves to write code
 
   # Description of your site. This will show up on the front page.
-  subtitle: Hi, I'm Nick Young. I'm currently an Internal Produt Manager at Facebook. Learn more about me <a href="./about">here</a>.
+  subtitle: Hi, I'm Nick Young! I'm currently an Internal Produt Manager at Facebook. Learn more about me <a href="./about">here</a>.
 
 author:
   name: Nick Young
@@ -29,7 +29,7 @@ lang: en
 # FROM THIS POINT ON EVERYTHING IS OPTIONAL
 
 ##############
-# APPEREANCE #
+# APPEARANCE #
 ##############
 
 # If you want to show the subtitle anywhere else than the front page, use
@@ -113,7 +113,7 @@ paypal:
 
 # Useful for translating into other languages.
 
-var_on_the_web: On the web
+var_on_the_web: Find me on the web
 var_read: Read # Text after each post summary on the homepage.
 var_newer: Newer
 var_older: Older

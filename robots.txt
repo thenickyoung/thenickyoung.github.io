@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /about
+
+Sitemap: http://nickyoung.io/sitemap.xml
