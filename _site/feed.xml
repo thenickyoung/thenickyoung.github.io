@@ -14,26 +14,34 @@
 					
 				
 				
-<<<<<<< HEAD
 					<description>&lt;p&gt;This is a really interesting TED X talk from Luis von Ahn, one of the founders of reCAPTCHA. He discusses the motivation for creating CAPTCHA and how CAPTCHA is helping to digitize the world while solving the trival problem of human authentication. In the second half, von Ahn discusses how he has taken his learnings with CAPTCHA and applied it to his newest project, Duolingo.&lt;/p&gt;
-=======
+
+</description>
+				
+				<pubDate>Thu, 03 Mar 2016 00:00:00 -0800</pubDate>
+				<link>http://nickyoung.io/2016/03/03/captcha-von-ahn-duolingo/</link>
+				<guid isPermaLink="true">http://nickyoung.io/2016/03/03/captcha-von-ahn-duolingo/</guid>
+			</item>
+		
+			<item>
+				<title>Technology + Crowdsourcing = Changing the world</title>
+				
+					
+						<dc:creator>{&quot;name&quot;=&gt;&quot;Nick Young&quot;, &quot;email&quot;=&gt;&quot;hello@nickyoung.io&quot;, &quot;info&quot;=&gt;nil}</dc:creator>
+					
+				
+				
 					<description>&lt;p&gt;This is a really interesting TED X talk from Luis von Ahn, one of the founders&lt;br /&gt;
 of reCAPTCHA. He discusses the motivation for creating CAPTCHA and how CAPTCHA&lt;br /&gt;
 is helping to digitize the world while solving the trival problem of human&lt;br /&gt;
 authentication. In the second half, von Ahn discusses how he has taken his&lt;br /&gt;
 learnings with CAPTCHA and applied it to his newest project, Duolingo.&lt;/p&gt;
->>>>>>> origin/master
 
 </description>
 				
 				<pubDate>Thu, 03 Mar 2016 00:00:00 -0800</pubDate>
-<<<<<<< HEAD
-				<link>http://nickyoung.io/2016/03/03/captcha-von-ahn-duolingo/</link>
-				<guid isPermaLink="true">http://nickyoung.io/2016/03/03/captcha-von-ahn-duolingo/</guid>
-=======
 				<link>http://nickyoung.io/2016/03/03/captcha/</link>
 				<guid isPermaLink="true">http://nickyoung.io/2016/03/03/captcha/</guid>
->>>>>>> origin/master
 			</item>
 		
 			<item>
